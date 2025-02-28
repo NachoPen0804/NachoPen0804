@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Nacho Peña
-![NachoPen0804's GitHub stats](https://github-readme-stats.vercel.app/api?username=nachopen0804&show_icons=true&theme=radical)
+![NachoPen0804's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=NachoPen0804&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
 
 <!--
